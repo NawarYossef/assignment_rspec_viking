@@ -1,4 +1,4 @@
-require 'warmup'
+require'./lib/warmup'
 
 describe Warmup do
 
